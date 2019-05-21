@@ -1,1 +1,2 @@
-# aur_teamviewer11
+# Teamviewer-11
+Manjaro / Arch Linux
